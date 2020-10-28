@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/t/t_anh/COEN313/Code
+T_opt
+Z1 V9n_>fK<7PYSczoS<@J5E^0
+Z2 04 9 7 work and2_gate example 1
+Z3 =1-308d996205c8-5f74ddc4-e4a99-53f
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;6.6g;45
+Z7 d/home/t/t_anh/COEN313/Code
+T_opt1
+Z8 VZ]@aeZGODo`FDan23VEgl3
+R2
+Z9 =1-308d996205c8-5f74e257-10fa0-1166
+R4
+Z10 n@_opt1
+R6
+R7
+Eand2_gate
+Z11 w1601493192
+Z12 DPx17 __model_tech/ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+R7
+Z13 8and2.vhd
+Z14 Fand2.vhd
+l0
+L4
+Z15 V[f7zng5`YA^CAj?F[nZiK0
+Z16 OL;C;6.6g;45
+Z17 tExplicit 1
+Z18 !s100 <Xj>b_P]gThCWdQ>mV7_g0
+Aexample
+R12
+DEx35 /nfs/home/t/t_anh/COEN313/Code/work 9 and2_gate 0 22 [f7zng5`YA^CAj?F[nZiK0
+32
+Mx1 17 __model_tech/ieee 14 std_logic_1164
+l10
+L9
+Z19 V0V`5`Yzij>Qn^[>WT_OMf2
+R16
+R17
+Z20 !s100 ]`=FGdmjK75jbN>3Q6I6W1
