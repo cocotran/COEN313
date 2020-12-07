@@ -1,5 +1,5 @@
-# vsim -do ../DO/sum.do -c sum_of_minterms 
-# //  ModelSim SE-64 6.6g May 23 2012 Linux 3.10.0-1160.2.2.el7.x86_64
+# vsim -do ../DO/comb_lock.do -c comb_lock 
+# //  ModelSim SE-64 6.6g May 23 2012 Linux 3.10.0-1160.6.1.el7.x86_64
 # //
 # //  Copyright 1991-2012 Mentor Graphics Corporation
 # //              All Rights Reserved.
@@ -11,15 +11,8 @@
 # //
 # Loading std.standard
 # Loading ieee.std_logic_1164(body)
-# Loading work.sum_of_minterms(sum)#1
-# do ../DO/sum.do 
-# 0 0 0 0
-# 0 0 1 1
-# 0 1 0 0
-# 0 1 1 1
-# 1 0 0 0
-# 1 0 1 0
-# 1 1 0 0
-# 1 1 1 1
+# Loading work.comb_lock(mult_seg_arch)#1
+# do ../DO/comb_lock.do 
+# 0
 # 
 #  
